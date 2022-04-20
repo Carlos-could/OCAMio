@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting-Herencia/Casting.iml" filepath="$PROJECT_DIR$/Casting-Herencia/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting_Herencia/Casting_Herencia.iml" filepath="$PROJECT_DIR$/Casting_Herencia/Casting_Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enthuware/Enthuware.iml" filepath="$PROJECT_DIR$/Enthuware/Enthuware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/Excepciones.iml" filepath="$PROJECT_DIR$/Excepciones/Excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ifes/Ifes.iml" filepath="$PROJECT_DIR$/Ifes/Ifes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP.iml" filepath="$PROJECT_DIR$/OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Staticos/Staticos.iml" filepath="$PROJECT_DIR$/Staticos/Staticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+    </modules>
+  </component>
+</project>
