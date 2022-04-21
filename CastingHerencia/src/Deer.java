@@ -1,5 +1,3 @@
-package Casting_Herencia;
-
 public class Deer {
 
   public Deer() {

@@ -1,5 +1,3 @@
-package Final;
-
 interface Ventana {
 
     void teil1();

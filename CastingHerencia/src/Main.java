@@ -1,5 +1,3 @@
-package Casting_Herencia;
-
 class Animal {
     void comer(){
         System.out.println("El animal come");

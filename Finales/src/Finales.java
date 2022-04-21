@@ -1,5 +1,3 @@
-package Final;
-
 public class Finales implements Rueda, Ventana{
 
 

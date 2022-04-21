@@ -5,16 +5,26 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Casting-Herencia/Casting.iml" filepath="$PROJECT_DIR$/Casting-Herencia/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CastingHerencia/CastingHerencia.iml" filepath="$PROJECT_DIR$/CastingHerencia/CastingHerencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Casting_Herencia/Casting_Herencia.iml" filepath="$PROJECT_DIR$/Casting_Herencia/Casting_Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clases/Clases.iml" filepath="$PROJECT_DIR$/Clases/Clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructores/Constructores.iml" filepath="$PROJECT_DIR$/Constructores/Constructores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enthuware/Enthuware.iml" filepath="$PROJECT_DIR$/Enthuware/Enthuware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualsIgual/EqualsIgual.iml" filepath="$PROJECT_DIR$/EqualsIgual/EqualsIgual.iml" />
       <module fileurl="file://$PROJECT_DIR$/Excepciones/Excepciones.iml" filepath="$PROJECT_DIR$/Excepciones/Excepciones.iml" />
       <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finales/Finales.iml" filepath="$PROJECT_DIR$/Finales/Finales.iml" />
       <module fileurl="file://$PROJECT_DIR$/Garbage/Garbage.iml" filepath="$PROJECT_DIR$/Garbage/Garbage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ifes/Ifes.iml" filepath="$PROJECT_DIR$/Ifes/Ifes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/OCP.iml" filepath="$PROJECT_DIR$/OCP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Staticos/Staticos.iml" filepath="$PROJECT_DIR$/Staticos/Staticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilders/StringBuilders.iml" filepath="$PROJECT_DIR$/StringBuilders/StringBuilders.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToString/ToString.iml" filepath="$PROJECT_DIR$/ToString/ToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
     </modules>
   </component>
 </project>

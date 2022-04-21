@@ -1,5 +1,3 @@
-package Final;
-
 public class WaterBottle {
 
  private String brand;

@@ -1,5 +1,3 @@
-package Final;
-
 public interface Rueda {
 
     void teil1();

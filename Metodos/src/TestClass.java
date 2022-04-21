@@ -1,6 +1,4 @@
 
-Identity correct statement about the following code -
-
 class X{
     int val = 10;
 }
@@ -14,7 +12,7 @@ public class TestClass extends X{
     public static void main(String[] args){
         Y y = new Y();
         //int k = (X) y.val ; //2 nose puede pasar de X a int
-        System.out.println(k);
+       // System.out.println(k);
 
     }
 }

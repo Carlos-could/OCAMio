@@ -1,5 +1,3 @@
-package Casting_Herencia;
-
 public class ConstructorA {
 
     ConstructorA() {
@@ -19,8 +17,6 @@ public class ConstructorA {
         System.out.println(nuevoA.vOf());
     }
 }
-
-
 class ConstructorB extends ConstructorA{
     public ConstructorB(int x) {
         System.out.println("Contructor clase B con 1 parametros");

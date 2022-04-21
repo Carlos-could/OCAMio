@@ -1,5 +1,3 @@
-package Final;
-
 public class Main{
     public static void main(String[] args) {
         Finales f = new Finales();
